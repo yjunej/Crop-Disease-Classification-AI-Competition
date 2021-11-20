@@ -4,6 +4,5 @@
 \
 주최: 한국지능정보사회진흥원(NIA)\
 운영: DACON\
-
 macro-f1: 0.99848\
 2nd place solution
